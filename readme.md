@@ -1,8 +1,7 @@
 # Persons Database
 ## How to run this project:
-Download this application, then open it in an IDE of your choosing 
-(this project was done in IntelliJ). Once there, run the main application "PersonsDatabaseApplication." 
-Once this is done you can pick one of two options. 
+Download this application, then either run it in the command line using *mvn spring-boot:run*, or open it in an IDE of your choosing then run the main application *PersonsDatabaseApplication.* 
+Once this is done you can pick one of two options. (Note: this was developed in IntelliJ.)
 
 A prompt to type on the command line should appear.
 ##### a.1) Web API
