@@ -6,6 +6,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import samofloinn.github.PersonsDatabase.services.impl.PersonServiceImpl;
 
+/**
+ * PersonController:
+ * Provides forwarding off URL mappings for the PersonService's functions, as well as an intermediary
+ * @author Sam O'Floinn (samofloinn@gmail.com)
+ * @since 24/11/2020
+ * @version 1.0
+ */
 
 @Controller
 @Slf4j
